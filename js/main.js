@@ -14,7 +14,7 @@
     ["Baratheon", `some stuff about Baratheon`],
      // 1
     ["Lannister", ``],
-    
+
     ["Tully", ``],
 
     ["Greyjoy", ``],
